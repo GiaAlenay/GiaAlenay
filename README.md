@@ -23,5 +23,6 @@ What technologies do I use?
 
 ![image](https://user-images.githubusercontent.com/98497514/210474188-dc92e824-0cd8-43c4-b9b6-878a949ba751.png)
 
-📫 How to reach me
+📫 How to reach me:
+email: alenay1511@outlook.es
 
