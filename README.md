@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**GiaAlenay/GiaAlenay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/98497514/210465538-12379493-cc5f-4402-a87e-5e9bfaa9c141.png)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
